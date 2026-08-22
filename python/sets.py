@@ -1,0 +1,5 @@
+print(hash("s"))
+print(hash("a"))
+print(hash("h"))
+print(hash("i"))
+print(hash("l"))
